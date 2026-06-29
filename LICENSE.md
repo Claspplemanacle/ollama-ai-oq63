@@ -1,4 +1,4 @@
-# 
+# VIP Ollama extensiones. Con pruebas automatizadas y integración de API — optimizado para el máximo rendimiento y eficiencia.
 
 
 
